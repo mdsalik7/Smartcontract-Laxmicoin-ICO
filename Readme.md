@@ -1,7 +1,7 @@
 # Smart Contract - Laxmicoin ICO
 
 ## To be installed -
-Ether Wallet 
+Ether Wallet  
 [Ganache](https://github.com/trufflesuite/ganache/releases/download/v1.3.0/ganache-setup-1.3.0.exe) 
 
 ## Procedure -
@@ -23,29 +23,29 @@ Ether Wallet
 
 ## Interacting with the Smart Contract
 
-Checking the maximum number of Laxmicoins -  
+#### Checking the maximum number of Laxmicoins -  
 ![screenshot 28](https://user-images.githubusercontent.com/42892152/53290030-a7cf2900-37c4-11e9-8d3a-8e1af2888c62.jpg)  
 
-USD to Laxmicoins (1 USD = 1000 Laxmicoins) -  
+#### USD to Laxmicoins (1 USD = 1000 Laxmicoins) -  
 ![screenshot 36](https://user-images.githubusercontent.com/42892152/53290011-722a4000-37c4-11e9-9f5a-52eef2610909.jpg)  
 
-Buying Laxmicoins -  
+#### Buying Laxmicoins -  
 ![screenshot 29](https://user-images.githubusercontent.com/42892152/53290056-e9f86a80-37c4-11e9-82f0-9fc619bb523d.jpg)  
 
-Equity in USD invested by the Investor (How much the Investor invested in Dollars) -  
+#### Equity in USD invested by the Investor (How much the Investor invested in Dollars) -  
 ![screenshot 30](https://user-images.githubusercontent.com/42892152/53290079-46f42080-37c5-11e9-85cd-fe686b5f00b5.jpg)  
 
-Equity in Laxmicoins (Number of Laxmicoins invested on by the Investor) -  
+#### Equity in Laxmicoins (Number of Laxmicoins invested on by the Investor) -  
 ![screenshot 31](https://user-images.githubusercontent.com/42892152/53290107-ae11d500-37c5-11e9-9c2b-a99419bee888.jpg)  
 
-Total Laxmicoins Bought (Since I am the only investor right now so the total laxmicoins bought is exact same as how much I bought) -  
+#### Total Laxmicoins Bought (Since I am the only investor right now so the total laxmicoins bought is exact same as how much I bought) -  
 ![screenshot 32](https://user-images.githubusercontent.com/42892152/53290143-2082b500-37c6-11e9-8629-a860673ae4d2.jpg)  
 
-Selling Laxmicoins -
+#### Selling Laxmicoins -
 ![screenshot 33](https://user-images.githubusercontent.com/42892152/53290167-60e23300-37c6-11e9-9ae5-58caaab6dd79.jpg)  
 
-Equity in Laxmicoins left -  
+#### Equity in Laxmicoins left -  
 ![screenshot 34](https://user-images.githubusercontent.com/42892152/53290242-1c0acc00-37c7-11e9-81c9-448faf952741.jpg)  
 
-Equity in USD left -  
+#### Equity in USD left -  
 ![screenshot 35](https://user-images.githubusercontent.com/42892152/53290298-f9c57e00-37c7-11e9-86a6-d9e6fa605685.jpg)  
