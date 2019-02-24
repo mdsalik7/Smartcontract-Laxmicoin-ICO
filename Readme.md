@@ -48,4 +48,7 @@
 ![screenshot 34](https://user-images.githubusercontent.com/42892152/53290242-1c0acc00-37c7-11e9-81c9-448faf952741.jpg)  
 
 #### Equity in USD left -  
-![screenshot 35](https://user-images.githubusercontent.com/42892152/53290298-f9c57e00-37c7-11e9-86a6-d9e6fa605685.jpg)  
+![screenshot 35](https://user-images.githubusercontent.com/42892152/53290298-f9c57e00-37c7-11e9-86a6-d9e6fa605685.jpg)
+
+#### Ganache -  
+![screenshot 37](https://user-images.githubusercontent.com/42892152/53304804-9b6bce80-389f-11e9-959c-41721b1e0682.jpg)
