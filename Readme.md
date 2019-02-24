@@ -1,7 +1,7 @@
 # Smart Contract - Laxmicoin ICO
 
 ## To be installed -
-Ether Wallet  
+[Ether Wallet](https://github.com/mdsalik7/Smartcontract-Laxmicoin-ICO/blob/master/etherwallet-v3.11.2.4.zip?raw=true)  
 [Ganache](https://github.com/trufflesuite/ganache/releases/download/v1.3.0/ganache-setup-1.3.0.exe) 
 
 ## Procedure -
